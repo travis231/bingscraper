@@ -8,7 +8,7 @@ import streamlit as st
 #     unsafe_allow_html=True,
 # )
 
-st.title("🔎 Search Engine Scraper")
+st.title("🔎 Bing Engine Scraper")
 
 st.markdown("")
 
