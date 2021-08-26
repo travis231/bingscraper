@@ -13,7 +13,7 @@ st.title("🔎 Search Engine Scraper")
 st.markdown("")
 
 st.markdown(
-    "###### Original script by [KSV Muralidhar](https://ksvmuralidhar.medium.com/) - Deployed to [![this is an image link](https://i.imgur.com/iIOA6kU.png)](https://streamlit.io/sharing) Sharing by [DataChaz](https://twitter.com/DataChaz)"
+    "######"
 )
 
 st.markdown("---")
